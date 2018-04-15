@@ -1,6 +1,7 @@
 # DemoDeployGithub
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0-beta.1.
+Ejemplo de despliegue de una aplicación angular en GitHub.
+Más información en [http://ngserve.blogspot.com.es/](http://ngserve.blogspot.com.es/)
 
 ## Development server
 
